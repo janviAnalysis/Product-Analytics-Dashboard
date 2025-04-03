@@ -13,6 +13,8 @@ This repository contains:
 
 ## Data Source
 
+The data used for this analysis is stored in an Excel file available on GitHub: Product_data.xlsx
+
 
 ## Key Analyses Performed
 
